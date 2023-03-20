@@ -1,3 +1,4 @@
+![logo](https://github.com/Husnainaqeel384/Husnainaqeel384/blob/main/Poster.jpg)
 <h1 align="center">Hi 👋, I'm Muhammad Husnain Aqeel</h1>
 <h3 align="center">A passionate full MERN stack developer from Pakistan</h3>
 <img align="right"  width="400" >
